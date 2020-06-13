@@ -1,0 +1,20 @@
+baseurl = "/"
+languageCode = "pt-br"
+DefaultContentLanguage = "pt-br"
+paginate = 5
+title = "Flads"
+description = "Amando, programando, escrevendo..."
+tags = ["flads", "fabio lucas"]
+theme = "hyde"
+summaryLength = 25
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/flads"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/fabio-lucas/"}
+  ]
+
+[params]
+  description = "Amando, programando, escrevendo..."
+  themeColor = "theme-base-color"
+
