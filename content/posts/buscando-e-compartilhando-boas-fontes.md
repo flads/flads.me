@@ -4,8 +4,6 @@ date: 2020-05-31
 draft: true
 ---
 
-Olá, pessoal!
-
 Gostaria de conversar com vocês sobre a importância de se buscar e compartilhar boas fontes de conhecimento. Abordarei esse assunto tendo como foco programadores, mas acredito que todos profissionais podem fazer uso desse texto.
 
 Nós programadores, ou profissionais de tecnologia como um todo, temos a honra de estar em uma área que requer estudo contínuo. Nossa própria atividade diária é uma atividade intelectual, trabalhamos muito nosso intelecto. Criando, resolvendo problemas, inovando, reiventando, refatorando, revisando. Por vezes estamos diante de uma nova tecnologia para aprender e temos que recorrer a algo para isso.

@@ -3,8 +3,8 @@ languageCode = "pt-br"
 DefaultContentLanguage = "pt-br"
 paginate = 5
 title = "Flads"
-description = "Amando, programando, escrevendo..."
-tags = ["flads", "fabio lucas"]
+description = "Cristão, Programador e Comedor de Camarão..."
+tags = ["flads", "fabio lucas", "cristão", "programador", "comedor de camarão"]
 theme = "hyde"
 summaryLength = 25
 
@@ -15,6 +15,6 @@ summaryLength = 25
   ]
 
 [params]
-  description = "Amando, programando, escrevendo..."
+  description = "Cristão, Programador e Comedor de Camarão..."
   themeColor = "theme-base-color"
 

@@ -4,9 +4,7 @@ date: 2020-05-28
 draft: true
 ---
 
-Essa é a primeira postagem desse blog, acabei de configurá-lo.
-
-A configuração foi rápida. Uma busca por um bom tema para um blog, que acabei por escolher o Blog Way, a instalação de alguns plugins para SEO, segurança e outras coisinhas, deixar ele mais minimalista (como gosto) e pronto. Essa é a magia do WordPress.
+Essa é a primeira postagem deste blog, acabei de configurá-lo. Estou utilizando o [HUGO](https://gohugo.io/) (um gerador de sites estáticos escrito em Go) jutamente com o tema [Hyde](https://github.com/spf13/hyde) (que acho elegante) com algumas pequenas customizações.
 
 Meu objetivo com esse meio de comunicação é claro. Quero escrever o que penso e quem sabe poder ajudar pessoas (como você que está lendo). Com certeza você já ouviu que todos temos algo para acrescentar na vida de alguém. Uns têm pouco, outros têm mais, mas no final todos temos algo a oferecer. Tudo isso graças a experiência de vida que cada um carrega. E, por favor, não entenda experiência aqui como “anos vividos”, mas como o conjunto de aprendizados que alguém pode obter com o que a vida lhe proporciona, sejam coisas boas ou más.
 
