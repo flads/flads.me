@@ -1,0 +1,6 @@
+[pt-br]
+    title = "Flads"
+    languageName = "Brazilian Portuguese"
+    weight = 1
+    languagedir = "ltr"
+    contentdir = "content/pt-br"
