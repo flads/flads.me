@@ -5,7 +5,7 @@ description = "Flads' personal blog." # for SEO
 custom_css = [] # custom_css = ["scss/custom.scss"] and then make file at root/assets/scss/custom.scss
 custom_js = [] # custom_js = ["js/custom.js"] and then make file at root/assets/js/custom.js
 useFaviconGenerator = true # https://www.favicon-generator.org/
-meta_image = "/images/meta/mymetaimage.jpg"
+meta_image = "../images/meta/mymetaimage.jpg"
 languagedir = "ltr" # ltr / rtl
 
 themeOptions = ["dark", "light"] # select options for site color theme
@@ -50,7 +50,7 @@ talksGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 myname = "flads"
 email = "flads.me@gmail.com"
 whoami = "Web Developer"
-bioImageUrl = "images/meta/mymetaimage.jpg" # image url like "http//..." or "images/anyfoldername/mybioimage.jpg" If not set, we find a avatar image in root/static/images/whoami/avatar.(png|jpg|svg)
+bioImageUrl = "../images/meta/mymetaimage.jpg" # image url like "http//..." or "images/anyfoldername/mybioimage.jpg" If not set, we find a avatar image in root/static/images/whoami/avatar.(png|jpg|svg)
 useGravatar = false # we use this option highest priority
 location = "Rio Grande do Norte, Brasil"
 organization = ""
