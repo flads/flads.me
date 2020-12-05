@@ -7,6 +7,9 @@ hideToc: false
 enableToc: true
 enableTocContent: false
 author: flads
+tags:
+    - empreendedorismo
+    - sociedade
 pinned: false
 ---
 

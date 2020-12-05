@@ -7,6 +7,10 @@ hideToc: false
 enableToc: true
 enableTocContent: false
 author: flads
+tags:
+    - aprendizado
+    - contribuição
+    - carreira
 pinned: false
 ---
 
