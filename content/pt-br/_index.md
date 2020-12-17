@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      -
+      - // Silence is golden.
     subtitle:
-      -
+      - 
     titleColor: 
     titleShadow: true
     titleFontSize: 44
