@@ -1,7 +1,7 @@
 ---
 title: "Minha realidade não é a sua realidade."
 date: 2021-04-22
-description: ""
+description: "Você se considera privilegiado por algo?! O simples fato de você estar lendo essa postagem é motivo de gratidão."
 draft: false
 hideToc: false
 enableToc: true
