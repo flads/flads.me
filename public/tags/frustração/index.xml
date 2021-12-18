@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>frustração on Flads</title>
+    <link>https://flads.me/tags/frustra%C3%A7%C3%A3o/</link>
+    <description>Recent content in frustração on Flads</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>flads.me@gmail.com (flads)</managingEditor>
+    <webMaster>flads.me@gmail.com (flads)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://flads.me/tags/frustra%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Quando já não mais tentamos.</title>
+        <link>https://flads.me/posts/quando-ja-nao-mais-tentamos/</link>
+        <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+        <author>flads.me@gmail.com (flads)</author>
+        <atom:modified>Sat, 21 Aug 2021 00:00:00 +0000</atom:modified>
+        <guid>https://flads.me/posts/quando-ja-nao-mais-tentamos/</guid>
+        <description>Decepção, frustação, Desconfiança. Vejo os dois cenários e me deparo com os mesmos problemas.
+Em uma visão macro, há um país que vem sendo mal governado por muito tempo. Figurando como um dos últimos nos testes de educação internacionais e como um dos primeiros no ranking mundial de homicídios. Corrupção e uma insegurança jurícidica que afugenta investimentos comerciais e altos impostos que acorrentam o cidadão comum em um poço de infelicidade.</description>
+        
+        <dc:creator>flads</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>frustração</category>
+            
+          
+            
+              <category>reflexão</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

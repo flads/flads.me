@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>aws on Flads</title>
+    <link>https://flads.me/tags/aws/</link>
+    <description>Recent content in aws on Flads</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>flads.me@gmail.com (flads)</managingEditor>
+    <webMaster>flads.me@gmail.com (flads)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://flads.me/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Minha realidade não é a sua realidade.</title>
+        <link>https://flads.me/posts/minha-realidade-nao-e-a-sua-realidade/</link>
+        <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+        <author>flads.me@gmail.com (flads)</author>
+        <atom:modified>Thu, 22 Apr 2021 00:00:00 +0000</atom:modified>
+        <guid>https://flads.me/posts/minha-realidade-nao-e-a-sua-realidade/</guid>
+        <description>Facilmente o ser humano esquece dos aprendizados que obteve. Aliás, nossa capacidade de esquecer é fundamental pra nossa sobrevivência como espécie. Já pensou se lembrássemos sempre de todas as coisas ruins que acontessem conosco ou de todas as experiências desagradáveis que outras pessoas nos proporcionaram?! Seria insuportável.
+Somos todos responsáveis pelas mudanças em nossas vidas, e é extremamente louvável, e admirável, quando alguém consegue atingir um patamar de vida satisfatório e com realizações.</description>
+        
+        <dc:creator>flads</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>hospedagem</category>
+            
+          
+            
+              <category>provedores de hospedagem</category>
+            
+          
+            
+              <category>desenvolvimento de software</category>
+            
+          
+            
+              <category>hostgator</category>
+            
+          
+            
+              <category>aws</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Da Hostagor Para a AWS</title>
+        <link>https://flads.me/posts/da-hostgator-para-a-aws/</link>
+        <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+        <author>flads.me@gmail.com (flads)</author>
+        <atom:modified>Thu, 25 Mar 2021 00:00:00 +0000</atom:modified>
+        <guid>https://flads.me/posts/da-hostgator-para-a-aws/</guid>
+        <description>Lembro bem quando comecei a desenvolver sites, o serviço de hospedagem que comecei a usar foi o plano compartilhado da Hostgator, hospedagem fácil com o cpanel, usando o tão famigerado FTP e com alguns serviços já inclusos, como servidor de e-mail, certificado SSL e backup automático.
+Para um iniciante na área de desenvolvimento pra web é muito útil, ajuda bastante. Você não precisa se preocupar com muitas coisas e em poucas horas já tem seu site disponível na web.</description>
+        
+        <dc:creator>flads</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>hospedagem</category>
+            
+          
+            
+              <category>provedores de hospedagem</category>
+            
+          
+            
+              <category>desenvolvimento de software</category>
+            
+          
+            
+              <category>hostgator</category>
+            
+          
+            
+              <category>aws</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

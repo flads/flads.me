@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>TODO on Flads</title>
+    <link>https://flads.me/showcase/todo/</link>
+    <description>Recent content in TODO on Flads</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>flads.me@gmail.com (flads)</managingEditor>
+    <webMaster>flads.me@gmail.com (flads)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://flads.me/showcase/todo/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Livewire TODO</title>
+        <link>https://flads.me/showcase/todo/livewire-todo/</link>
+        <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+        <author>flads.me@gmail.com (flads)</author>
+        <atom:modified>Sat, 21 Aug 2021 00:00:00 +0000</atom:modified>
+        <guid>https://flads.me/showcase/todo/livewire-todo/</guid>
+        <description></description>
+        
+        <dc:creator>flads</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Flads</title>
+    <link>https://flads.me/</link>
+    <description>Recent content on Flads</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>flads.me@gmail.com (flads)</managingEditor>
+    <webMaster>flads.me@gmail.com (flads)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://flads.me/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+      
+      <item>
+        <title>Quando já não mais tentamos.</title>
+        <link>https://flads.me/posts/quando-ja-nao-mais-tentamos/</link>
+        <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+        <author>flads.me@gmail.com (flads)</author>
+        <atom:modified>Sat, 21 Aug 2021 00:00:00 +0000</atom:modified>
+        <guid>https://flads.me/posts/quando-ja-nao-mais-tentamos/</guid>
+        <description>Decepção, frustação, Desconfiança. Vejo os dois cenários e me deparo com os mesmos problemas.
+Em uma visão macro, há um país que vem sendo mal governado por muito tempo. Figurando como um dos últimos nos testes de educação internacionais e como um dos primeiros no ranking mundial de homicídios. Corrupção e uma insegurança jurícidica que afugenta investimentos comerciais e altos impostos que acorrentam o cidadão comum em um poço de infelicidade.</description>
+        
+        <dc:creator>flads</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>frustração</category>
+            
+          
+            
+              <category>reflexão</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>90 dias de Bee Delivery</title>
+        <link>https://flads.me/posts/90-dias-de-bee-delivery/</link>
+        <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+        <author>flads.me@gmail.com (flads)</author>
+        <atom:modified>Mon, 26 Apr 2021 00:00:00 +0000</atom:modified>
+        <guid>https://flads.me/posts/90-dias-de-bee-delivery/</guid>
+        <description>Dia 11 de Janeiro desse ano assumi o posto de desenvolvedor web na Bee Delivery, uma startup de delivery que conecta empresas a motoboys. Entrei para o time de desenvolvimento, conheci pessoas admiráveis e estou tendo todos os dias a oportunidade de dar o meu melhor como desenvolvedor em uma empresa que não para de crescer e que tem muito a construir.
+Faz uns anos que criei um hábito. Sempre olho para a bag de qualquer motoboy que passa por mim.</description>
+        
+        <dc:creator>flads</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>bee delivery</category>
+            
+          
+            
+              <category>trabalho</category>
+            
+          
+            
+              <category>desenvolvimento de software</category>
+            
+          
+            
+              <category>mossoró</category>
+            
+          
+            
+              <category>empreendedorismo</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Minha realidade não é a sua realidade.</title>
+        <link>https://flads.me/posts/minha-realidade-nao-e-a-sua-realidade/</link>
+        <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+        <author>flads.me@gmail.com (flads)</author>
+        <atom:modified>Thu, 22 Apr 2021 00:00:00 +0000</atom:modified>
+        <guid>https://flads.me/posts/minha-realidade-nao-e-a-sua-realidade/</guid>
+        <description>Facilmente o ser humano esquece dos aprendizados que obteve. Aliás, nossa capacidade de esquecer é fundamental pra nossa sobrevivência como espécie. Já pensou se lembrássemos sempre de todas as coisas ruins que acontessem conosco ou de todas as experiências desagradáveis que outras pessoas nos proporcionaram?! Seria insuportável.
+Somos todos responsáveis pelas mudanças em nossas vidas, e é extremamente louvável, e admirável, quando alguém consegue atingir um patamar de vida satisfatório e com realizações.</description>
+        
+        <dc:creator>flads</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>hospedagem</category>
+            
+          
+            
+              <category>provedores de hospedagem</category>
+            
+          
+            
+              <category>desenvolvimento de software</category>
+            
+          
+            
+              <category>hostgator</category>
+            
+          
+            
+              <category>aws</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Da Hostagor Para a AWS</title>
+        <link>https://flads.me/posts/da-hostgator-para-a-aws/</link>
+        <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+        <author>flads.me@gmail.com (flads)</author>
+        <atom:modified>Thu, 25 Mar 2021 00:00:00 +0000</atom:modified>
+        <guid>https://flads.me/posts/da-hostgator-para-a-aws/</guid>
+        <description>Lembro bem quando comecei a desenvolver sites, o serviço de hospedagem que comecei a usar foi o plano compartilhado da Hostgator, hospedagem fácil com o cpanel, usando o tão famigerado FTP e com alguns serviços já inclusos, como servidor de e-mail, certificado SSL e backup automático.
+Para um iniciante na área de desenvolvimento pra web é muito útil, ajuda bastante. Você não precisa se preocupar com muitas coisas e em poucas horas já tem seu site disponível na web.</description>
+        
+        <dc:creator>flads</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>hospedagem</category>
+            
+          
+            
+              <category>provedores de hospedagem</category>
+            
+          
+            
+              <category>desenvolvimento de software</category>
+            
+          
+            
+              <category>hostgator</category>
+            
+          
+            
+              <category>aws</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>A Influência do Empreendedorismo e Um Exemplo de Empreendedor</title>
+        <link>https://flads.me/posts/a-influencia-do-empreendedorismo-e-um-exemplo-de-empreendedor/</link>
+        <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+        <author>flads.me@gmail.com (flads)</author>
+        <atom:modified>Sun, 21 Jun 2020 00:00:00 +0000</atom:modified>
+        <guid>https://flads.me/posts/a-influencia-do-empreendedorismo-e-um-exemplo-de-empreendedor/</guid>
+        <description>Como a vida de um empreendedor pode influenciar a vida dos demais cidadãos em uma sociedade?
+Tocar um negócio e torná-lo grande não é para qualquer um. Você não precisa ser um especialista em negócios para saber das dificuldades que se enfrenta para criar algo lucrativo. A batalha diária, os pesos colocados pelo Estado, a responsabilidade para com os colaboradores. É preciso coragem e inteligência.
+Porém, independente das dificuldades e de quais sejam os motivos dos negócios, uma coisa é certa, o raio de alcance dos empreendimentos pode ultrapassar fronteiras e alcançar pessoas que precisam apenas de um exemplo a ser seguido.</description>
+        
+        <dc:creator>flads</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>empreendedorismo</category>
+            
+          
+            
+              <category>sociedade</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Buscando e Compartilhando Boas Fontes</title>
+        <link>https://flads.me/posts/buscando-e-compartilhando-boas-fontes/</link>
+        <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+        <author>flads.me@gmail.com (flads)</author>
+        <atom:modified>Sun, 31 May 2020 00:00:00 +0000</atom:modified>
+        <guid>https://flads.me/posts/buscando-e-compartilhando-boas-fontes/</guid>
+        <description>Gostaria de conversar com vocês sobre a importância de se buscar e compartilhar boas fontes de conhecimento. Abordarei esse assunto tendo como foco programadores, mas acredito que todos profissionais podem fazer uso desse texto.
+Nós programadores, ou profissionais de tecnologia como um todo, temos a honra de estar em uma área que requer estudo contínuo. Nossa própria atividade diária é uma atividade intelectual, trabalhamos muito nosso intelecto. Criando, resolvendo problemas, inovando, reiventando, refatorando, revisando.</description>
+        
+        <dc:creator>flads</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>aprendizado</category>
+            
+          
+            
+              <category>contribuição</category>
+            
+          
+            
+              <category>carreira</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Hello World!</title>
+        <link>https://flads.me/posts/hello-world/</link>
+        <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+        <author>flads.me@gmail.com (flads)</author>
+        <atom:modified>Thu, 28 May 2020 00:00:00 +0000</atom:modified>
+        <guid>https://flads.me/posts/hello-world/</guid>
+        <description>Essa é a primeira postagem deste blog, acabei de configurá-lo. Meu objetivo com esse meio de comunicação é claro. Quero escrever o que penso e quem sabe poder ajudar pessoas (como você que está lendo). Com certeza você já ouviu que todos temos algo para acrescentar na vida de alguém. Uns têm pouco, outros têm mais, mas no final todos temos algo a oferecer. Tudo isso graças a experiência de vida que cada um carrega.</description>
+        
+        <dc:creator>flads</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

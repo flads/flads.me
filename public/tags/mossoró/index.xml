@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>mossoró on Flads</title>
+    <link>https://flads.me/tags/mossor%C3%B3/</link>
+    <description>Recent content in mossoró on Flads</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>flads.me@gmail.com (flads)</managingEditor>
+    <webMaster>flads.me@gmail.com (flads)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 26 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://flads.me/tags/mossor%C3%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>90 dias de Bee Delivery</title>
+        <link>https://flads.me/posts/90-dias-de-bee-delivery/</link>
+        <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+        <author>flads.me@gmail.com (flads)</author>
+        <atom:modified>Mon, 26 Apr 2021 00:00:00 +0000</atom:modified>
+        <guid>https://flads.me/posts/90-dias-de-bee-delivery/</guid>
+        <description>Dia 11 de Janeiro desse ano assumi o posto de desenvolvedor web na Bee Delivery, uma startup de delivery que conecta empresas a motoboys. Entrei para o time de desenvolvimento, conheci pessoas admiráveis e estou tendo todos os dias a oportunidade de dar o meu melhor como desenvolvedor em uma empresa que não para de crescer e que tem muito a construir.
+Faz uns anos que criei um hábito. Sempre olho para a bag de qualquer motoboy que passa por mim.</description>
+        
+        <dc:creator>flads</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>bee delivery</category>
+            
+          
+            
+              <category>trabalho</category>
+            
+          
+            
+              <category>desenvolvimento de software</category>
+            
+          
+            
+              <category>mossoró</category>
+            
+          
+            
+              <category>empreendedorismo</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
